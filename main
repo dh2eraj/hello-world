@@ -1,7 +1,1 @@
-#include<stdio.h>
-int main(void)
-{
-  printf("jai hind\n");
-  printf("bharat mata ki jain\n");
-  return 0;
-}
+print("hello world");
